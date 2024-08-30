@@ -1,0 +1,12 @@
+/* styles/Home.module.css */
+
+.main {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .error {
+    color: red;
+    margin-top: 10px;
+  }
+  
